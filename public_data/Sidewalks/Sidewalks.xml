@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Map</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The sidewalk inventory was developed to assist staff in planning walkway development and to prioritize sidewalk improvements and maintenance.  Sidewalk locations will be based on the locations of the assets on either side of the street segments.  Expired assets are excluded.  The sidewalk system consists of paved walkways (concrete, asphalt, and pavers), a few soft-surface pathways.  Displays sidewalks maintained by the Seattle Department of Transportation.Views: Link, adds recommended definition query for general use: 'CURRENT_STATUS IN(INSVC, PLNRECON) OR CURRENT_STATUS is empty string'Refresh Cycle: Feature Class: SDOT.V_SIDEWALKS</abstract>
+            <purpose>Displays sidewalks maintained by the Seattle Department of Transportation.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>SDOT</themekey>
+                <themekey>Transportation</themekey>
+                <themekey>Common Data Layers</themekey>
+                <themekey>Sidewalks</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The City of Seattle makes no representation or warranty as to its accuracy, and in particular, its accuracy as to labeling, dimensions, contours, property boundaries, or placement or location of any map feature thereof.</useconst>
+        <datacred>City of Seattle, Seattle Department of Transportation</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
